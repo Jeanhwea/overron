@@ -1,14 +1,22 @@
 {
-  "name": "blog",
+  "name": "overron",
   "version": "1.0.0",
-  "description": "",
+  "description": "a node javascript study repository",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeanhwea/overron.git"
+  },
   "author": "Jeanhwea",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeanhwea/overron/issues"
+  },
+  "homepage": "https://github.com/Jeanhwea/overron#readme",
   "dependencies": {
-      "electron": "1.6.6"
+    "electron": "1.6.6"
   }
 }
